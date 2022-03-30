@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Howdy, Howdy! 🤠 My name is Zack!</h1>
+<h3 align="center">I'm just a full-stack developing, film crew-ing, competitive video-gaming, basketball hooping, book reading, weight lifting, chess playing, computer building, world exploring, computer programmer! Join me in casting a wide intellectual net, and stay inspired!</h3>
 
-<!--
-**ZBreezie/ZBreezie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbreezie&label=Profile%20views&color=0e75b6&style=flat" alt="zbreezie" /> </p>
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **I play 8 musical instruments!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zbreezie&show_icons=true&locale=en&layout=compact" alt="zbreezie" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbreezie&show_icons=true&locale=en" alt="zbreezie" /></p>
