@@ -1,7 +1,7 @@
 <h1 align="center">Howdy, Howdy! 🤠 My name is Zack!</h1>
 <h3 align="center">I'm just a full-stack developing, film crew-ing, competitive video-gaming, basketball hooping, book reading, weight lifting, chess playing, computer building, world exploring, programmer!</h3>
 
-<h3 align="center"> Join me in casting a wide intellectual net, and stay inspired!</h3>
+<h3 align="center"> Join me in casting a wide intellectual net, and continue staying inspired!</h3>
 
 ## FUN FACTS:
 * ⚡ Plays 8 musical instruments 🎸
