@@ -7,7 +7,7 @@
 * ⚡ Plays 8 musical instruments 🎸
 * ⚡ Played 4 sports 🏀
 * ⚡ Worked on a golden globe winning film 🎥
-* ⚡ High ranked player in multiple e-sports titles 🕹️
+* ⚡ High ranked player in multiple E-Sports 🕹️
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zbreezie&label=Profile%20views&color=0e75b6&style=flat" alt="zbreezie" /> </p>
 
