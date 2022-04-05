@@ -13,5 +13,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbreezie&show_icons=true&locale=en&theme=highcontrast" alt="zbreezie" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zbreezie&label=Profile%20views&color=0e75b6&style=flat" alt="zbreezie" /> </p>
