@@ -1,7 +1,6 @@
 <h1 align="center">Howdy, Howdy!</h1>
 <h3 align="center">I'm a Full-Stack developing, film crew-ing, music playing, competitive video-gaming, basketball hooping, book reading, weight lifting, chess playing, world exploring, geek.</h3>
 
-<h3 align="center"> Join me in casting a wide intellectual net, and continue to stay inspired!</h3>
 
 ## FUN FACTS:
 * ⚡ Plays 6 musical instruments 🎸
