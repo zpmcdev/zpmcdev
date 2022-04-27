@@ -11,4 +11,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbreezie&show_icons=true&locale=en&theme=highcontrast" alt="zbreezie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zbreezie&show_icons=true&locale=en&theme=highcontrast&hide=stars" alt="zbreezie" /></p>
