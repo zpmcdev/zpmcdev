@@ -1,4 +1,4 @@
-<h1 align="center">Howdy, Howdy!</h1>
+<h1 align="center">Hello there!</h1>
 <h3 align="center">I'm a Full-Stack developing, film crew-ing, music playing, competitive video-gaming, basketball hooping, book reading, weight lifting, chess playing, world exploring, geek.</h3>
 
 
