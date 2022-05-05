@@ -1,5 +1,6 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">I'm a Full-Stack developing, film crew-ing, music playing, competitive video-gaming, basketball hooping, book reading, weight lifting, chess playing, world exploring, geek.</h3>
+<h3 align="center">Recent graduate from the University of Richmond Programming Boot Camp!</h3>
 
 
 ## FUN FACTS:
